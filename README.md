@@ -6,10 +6,10 @@
 ### Author: Spencer
 
 ### Links and Resources
-* [pr](http://xyz.com)
+* [pr](https://github.com/401-advanced-js/simple-api/pull/1)
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
+* [swagger](https://app.swaggerhub.com/apis/shiratap/SimpleApi/1.0.0) (API assignments only)
 
 ### Setup
 
