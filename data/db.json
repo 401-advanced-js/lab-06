@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "name": "wheel",
+      "display_name": "Wheels",
+      "description": "Vrroom Vrroom",
+      "id": 2
+    },
+    {
+      "description": "the good good",
+      "display_name": "Bananas",
+      "name": "bananas",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "bananas",
+      "category": "food",
+      "display_name": "Bananas",
+      "description": "the good good",
+      "id": 1
+    },
+    {
+      "name": "typeX",
+      "category": "wheel",
+      "display_name": "typex",
+      "description": "the wheels that smile back",
+      "id": 2
+    }
+  ]
+}
